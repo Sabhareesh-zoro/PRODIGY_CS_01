@@ -1,4 +1,4 @@
-# PRODIGY_WD_01 - Caesar Cipher Implementation
+# PRODIGY_CS_01 - Caesar Cipher Implementation
 
 ## 🔐 Task Description
 
